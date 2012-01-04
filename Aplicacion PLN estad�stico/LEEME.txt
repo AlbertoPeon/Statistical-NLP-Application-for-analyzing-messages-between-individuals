@@ -1,0 +1,19 @@
+La estructura de carpetas es la siguiente:
+
+- ./ Directorio raíz de “Aplicacion PLN estadistico”	
+Contiene los ficheros de proyecto de eclipse utilizado, que son dos archivos (".classpath" y ".project") además de la base de datos ("app.db").
+
+- ./doc	
+Contiene la documentación del código (Javadoc).
+
+- ./lib	
+Contiene las bibliotecas externas utilizadas por la aplicación.
+
+- ./src	
+Contiene los ficheros fuente en lenguaje Java, además de los ficheros de properties que permiten realizar la internacionalización.
+
+- ./bin	
+Contiene los ficheros con los binarios generados en ".class".
+
+- ./test 
+Contiene el código fuente de las pruebas unitarias.

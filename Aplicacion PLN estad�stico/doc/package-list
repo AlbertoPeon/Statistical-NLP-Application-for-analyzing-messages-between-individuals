@@ -1,0 +1,10 @@
+application
+application.busqueda
+application.classifier
+application.exception
+application.io
+application.main
+application.model
+application.operations
+application.util
+application.view
